@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author comp
+ *
+ */
+module practice {
+}
